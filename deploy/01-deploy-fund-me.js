@@ -32,4 +32,4 @@ module.exports = async ({ getNamedAccounts, deployments }) => {
     }
 }
 
-module.exports.tags = ("all", "FundMe")
+module.exports.tags = ["all", "fundme"]
